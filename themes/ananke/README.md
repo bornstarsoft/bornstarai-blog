@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+# BornstarAI Blog
+
+This is a Hugo static blog powered by Cloudflare Pages with the Ananke theme.
+=======
 # Ananke, A theme for [Hugo](https://gohugo.io/), a framework for building websites
 
 > [!WARNING]
@@ -265,3 +270,4 @@ Now enter [`localhost:1313`](http://localhost:1313/) in the address bar of your 
 If you find a bug feel free to use the [issue tracker](https://github.com/theNewDynamic/gohugo-theme-ananke/issues) to let me know. If you are having issues setting up your site with the theme, or have an idea for a feature, please use the [discussions](https://github.com/theNewDynamic/gohugo-theme-ananke/discussion) for support.
 
 Join me on my [ananke-theme Discord channel](https://discord.gg/MykHvyU5P3) for direct support.
+>>>>>>> 7910251 (Add full ananke theme and blog content)
